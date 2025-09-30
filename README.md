@@ -1,6 +1,6 @@
 # MT01
 
-# A backend with django
+# A backend with node.js
 
 
 
